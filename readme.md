@@ -1,128 +1,118 @@
-# Hi, I'm Inti Silva 👋
+# 😎 What's up? I'm Inti Silva
 
-Frontend-focused Full Stack Developer from Argentina, focused on building modern, polished and production-ready web applications with **React, Next.js, TypeScript and Tailwind CSS**.
+Frontend-focused Full Stack Developer from Argentina, building polished, production-ready web interfaces with **Next.js, React, TypeScript and Tailwind CSS**.
 
-I enjoy owning features end-to-end: from translating UI designs into responsive interfaces, to integrating APIs, handling complex state, improving performance, and connecting the frontend with real backend logic when the product needs it.
+I like working on frontend-heavy product features: dashboards, role-based interfaces, checkout flows, admin tools, rich content editors, responsive UI, motion, micro-interactions & animations, loading/error states, and performance-conscious user experiences.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
+I also work across the backend when the product needs it: APIs, auth, Prisma/PostgreSQL, webhooks, payments, transactional emails and third-party integrations.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=IntiSilva&style=flat-square&color=0e75b6" alt="Profile views" />
 </p>
 
 ---
 
-## 🚀 What I work with
+## Frontend stack I use most
 
-### Frontend
-- React
-- Next.js App Router
-- TypeScript
-- Tailwind CSS
-- shadcn/ui
-- Radix UI
-- Framer Motion
-- React Hook Form
-- Zod
-
-### Backend & Full Stack
-- Node.js
-- Next.js Server Actions / API Routes
-- Prisma
-- PostgreSQL
-- MongoDB
-- Clerk Auth
-- Stripe / Stripe Connect
-- Webhooks
-- Resend / Brevo
-
-### Testing & Quality
-- Playwright
-- Vitest
-- Accessibility-focused UI
-- Responsive design
-- Performance optimization
-- SSR / SSG / ISR
-- Error, loading and empty states
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055ff?style=flat-square&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-ec5990?style=flat-square&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3068b7?style=flat-square&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/SWR-000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recharts-ff6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+</p>
 
 ---
 
-## 🧩 Featured Projects
+## Product systems I connect the UI with
 
-### Eventify  
-A full-stack events platform with role-based experiences for admins, organizers and attendees.
-
-Some of the features I worked on:
-
-- Event discovery, search, filters and pagination
-- Event creation and management flows
-- RSVP system with optimistic UI
-- Paid event flow with Stripe
-- Payment and refund lifecycle handling
-- Reminder system with scheduled emails
-- Admin and organizer dashboards
-- Playwright E2E tests and Vitest coverage for critical flows
-
-**Stack:** Next.js, React, TypeScript, Prisma, PostgreSQL, Clerk, Stripe, Tailwind CSS, shadcn/ui, Framer Motion, Playwright, Vitest
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2d3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-6c47ff?style=flat-square&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635bff?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe_Connect-635bff?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webhooks-222?style=flat-square" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34a853?style=flat-square&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Brevo-0092ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tiptap-000?style=flat-square" />
+</p>
 
 ---
 
-### Argentina Survival Guide  
-A travel commerce and operations platform for tourists visiting Argentina.
+## Testing, tooling & deployment
 
-Some of the features I worked on:
-
-- Public marketing and service pages
-- Digital product and service checkout flows
-- Hotmart and LemonSqueezy webhook processing
-- Reservation system connected to Google Sheets
-- QR-based check-in flow
-- Transactional emails with Brevo
-- Article/blog system with dashboard editor
-- Rich text editor using Tiptap
-- Admin-protected article creation and publishing workflow
-
-**Stack:** Next.js, React, TypeScript, Prisma, PostgreSQL, Clerk, Hotmart, LemonSqueezy, Google Sheets API, Brevo, Tiptap, Tailwind CSS
+<p align="left">
+  <img src="https://img.shields.io/badge/Playwright-2ead33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6e9f18?style=flat-square&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Testing_Library-e33332?style=flat-square&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_S3-569a31?style=flat-square&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## 🎯 What I care about
+## What I usually work on
 
-- Building interfaces that feel smooth, clear and reliable
-- Writing maintainable frontend architecture
-- Translating designs into responsive production UI
-- Improving UX through small details, motion and feedback states
-- Keeping performance, accessibility and scalability in mind
-- Understanding the product, not just the ticket
-
----
-
-## 📫 Contact
-
-- Email: inti.t.silva@gmail.com
-- LinkedIn: [Add your LinkedIn URL here]
-- Portfolio: [Add your portfolio URL here]
+- Frontend architecture for real product flows
+- Responsive dashboards, admin panels and role-based interfaces
+- Checkout, cart and payment-related UI
+- Search, filters, pagination and optimistic UI
+- Loading, empty, error and success states
+- Motion, interaction details and polished user feedback
+- Rich text editors and content management interfaces
+- Performance, accessibility and maintainable component systems
+- API integration, auth, webhooks and backend workflows when needed
+- E2E and integration tests for critical user journeys
 
 ---
 
-## 🛠️ Current focus
+## Featured work
 
-I'm currently focused on improving my skills in:
+### Eventify
 
-- Advanced Next.js architecture
-- Performance optimization
-- Frontend testing
-- Product-oriented UI engineering
-- Payment and webhook-driven flows
+Full-stack events platform with admin, organizer and attendee workflows.
+
+Built frontend-heavy product flows around event discovery, search, filters, pagination, event management, RSVP interactions, paid event UX, Stripe checkout, refund review screens, role-based dashboards, charts, reminders and regression testing.
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui` `Framer Motion` `Prisma` `PostgreSQL` `Clerk` `Stripe` `Playwright` `Vitest`
+
+---
+
+### Argentina Survival Guide
+
+Travel commerce and operations platform for tourists visiting Argentina.
+
+Built public pages, checkout flows, service/product purchase UX, reservation forms, QR check-in screens, transactional email flows, Google Sheets-powered operations, and a protected article dashboard with a Tiptap rich text editor.
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL` `Clerk` `Google Sheets` `Brevo` `Tiptap`
+
+---
+
+## Where to find me
+
+<p align="left">
+  <a href="https://github.com/IntiSilva">
+    <img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/inti-tomas-silva-176749185/">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:inti.t.silva@gmail.com">
+    <img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://inti-silva-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+</p>
