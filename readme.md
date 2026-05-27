@@ -7,7 +7,7 @@ I like working on frontend-heavy product features: dashboards, role-based interf
 I also work across the backend when the product needs it: APIs, auth, Prisma/PostgreSQL, webhooks, payments, transactional emails and third-party integrations.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=IntiSilva&style=flat-square&color=0e75b6" alt="Profile views" />
+  <img src="https://img.shields.io/badge/English-B2%20First%20Certificate-2563eb?style=flat-square" />
 </p>
 
 ---
@@ -80,7 +80,7 @@ I also work across the backend when the product needs it: APIs, auth, Prisma/Pos
 
 ## Featured work
 
-### Eventify
+### [Eventify](https://eventifylive.vercel.app/)
 
 Full-stack events platform with admin, organizer and attendee workflows.
 
@@ -90,7 +90,7 @@ Built frontend-heavy product flows around event discovery, search, filters, pagi
 
 ---
 
-### Argentina Survival Guide
+### [Argentina Survival Guide](https://argentinasurvivalguide.com/)
 
 Travel commerce and operations platform for tourists visiting Argentina.
 
